@@ -4,3 +4,14 @@ __pycache__/
 *.vtu
 *.h5
 results/
+__pycache__/
+*.pyc
+
+# Arquivos auxiliares gerados pelo LaTeX
+TC2/*.aux
+TC2/*.fdb_latexmk
+TC2/*.fls
+TC2/*.log
+TC2/*.out
+TC2/*.synctex.gz
+TC2/*.toc
