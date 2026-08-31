@@ -3,4 +3,11 @@ __pycache__/
 *.bp
 *.vtu
 *.h5
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*gz
 results/
